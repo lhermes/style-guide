@@ -1,4 +1,4 @@
-# Louder Than Ten style guide template
+# nGen Works style guide template
 ========================================
 
 A template to create simple website style guides.
@@ -9,7 +9,7 @@ Includes some starter styles that you can use as a starting point or throw out. 
 
 Acts as a great starting point for designing your type conventions, form elements, and other site modules wihout the wasteful, inaccurate, and evil crutch of Photoshop.
 
-I use this very early in my design process. It works nice as an early design deliverable and can be applied directly to your site. (I would normally apply these styles to my [Live Wires](https://github.com/louderthanten/livewires) wireframe/prototype). Saves time, looks great, and get's you thinking about designing systems rather than pages.
+I use this very early in my design process. It works nice as an early design deliverable and can be applied directly to your site. (I would normally apply these styles to our [Live Wires](https://github.com/ngenworks/livewires) wireframe/prototype). Saves time, looks great, and get's you thinking about designing systems rather than pages.
 
 ## Instructions
 ### (If you wish to start with these styles)
