@@ -3,7 +3,7 @@
 
 A template to create simple website style guides.
 
-Add, remove, or modify the markup in style-guide.html to your liking, then style accordingly.
+Add, remove, or modify the markup in *guide.html* to your liking, then style accordingly.
 
 Includes some starter styles that you can use as a starting point or throw out. The important part is the HTML file, which includes a comprehensive list of common elements used in web projects.
 
@@ -16,12 +16,16 @@ I use this very early in my design process. It works nice as an early design del
 
 1. Drop these files in your web project and adjust config.rb to line up with your desired folder layout (I like to keep my scss folder above the webroot and have it compile into **httpdocs/css**).
 2. Setup Codekit, Compass.app or similar to watch config.rb and compile the starter styles.
-3. Open **httpdocs/index.html** in your browser to view the style guide.
+3. Open **httpdocs/guide.html** in your browser to view the style guide.
 4. Set colours, typefaces, grid variables, etc in **source/scss/settings/_variables.scss**
 5. Fine tune typography, forms, tables, callouts, etc in **source/scss/ui**
 6. Adjust the style guide itself in **source/scss/pages/style-guide.scss** (setup colour swatches, font order, grids shown, etc)
 
-Everything should compile into two CSS files. **httpdocs/css/style.css** combines everything except **source/scss/pages/style-guide.scss** for direct use in  your website. **httpdocs/css/style-guide.css** is compiled from **style-guide.scss** which only applies to the style guide page itself.
+Everything should compile into two CSS files:
+
+**httpdocs/css/style.css** combines everything except **source/scss/pages/style-guide.scss** for direct use in  your website.
+
+**httpdocs/css/style-guide.css** is compiled from **source/scss/pages/style-guide.scss** which only applies to the style guide page itself.
 
 Remember, this is just a suggested starting point to get you going. Go ahead and add or remove sections as needed. If you don't like the defaults, go ahead and fork your own version.
 
