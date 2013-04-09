@@ -29,6 +29,7 @@ Everything should compile into two CSS files:
 
 Remember, this is just a suggested starting point to get you going. Go ahead and add or remove sections as needed. If you don't like the defaults, go ahead and fork your own version.
 
+[Read how I use this in my design workflow]http://www.ngenworks.com/blog/ease-into-browser-based-design-with-style-guides/
 
 ### Acknowledgements
 
